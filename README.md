@@ -75,13 +75,11 @@ Arabic (native) · French (fluent) · English (fluent) · Spanish (basic)
 ---
 
 ### 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rime-el-habchi-recherche-de-stage/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhabchirime@gmail.com)
-
+ 
 <!-- If you have TryHackMe / HackTheBox / Root-Me profiles, add them here, e.g.:
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-USERNAME)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR-ID)
 -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RimeEL&show_icons=true&hide_border=true)
