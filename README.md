@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:b5658f&height=120&section=header" width="100%"/>
 
-<h1 align="center">Rime El Habchi</h1>
+<h1 align="center">Rime EL HABCHI</h1>
 
 <p align="center">Penetration Tester · Offensive Security · ENSIAS</p>
 
